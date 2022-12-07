@@ -1,0 +1,65 @@
+body{
+	background-color:whitesmoke;
+}
+
+.main-container{
+	margin-left:20%;
+	margin-right:20%;
+}
+
+.cover-photo{
+	background-image:url('cover.jpg');
+	background-size:cover;
+	height:250px;
+	width:100%%;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+}
+
+.profilepic{
+	height:150px;
+	width:auto;
+	float:left;
+	margin-top:-50px;
+	margin-left:20px;
+	margin-right:20px;
+	border-radius:50%;
+}
+
+.header{
+	background-color:white;
+	border-radius:30px;
+}
+
+.tags{
+	background-color:black;
+	padding:10px;
+	color:white;
+	border-radius:25px;
+	margin-right:5px;
+}
+
+.section1{
+	background-color:white;
+	height:290px;
+	margin-top:20px;
+	padding:20px;
+	border-radius:30px;
+}
+
+.section2{
+	background-color:white;
+	height:430px;
+	margin-top:20px;
+	padding:20px;
+	border-radius:30px;
+}
+
+h3{
+	margin-top:-12px;
+}
+
+.mnhs{
+	padding-left:60px;
+}
+
